@@ -1,14 +1,1 @@
-# Dependencias
 node_modules/
-/dist
-/www
-.angular/
-
-# Seguridad y Claves
-src/environments/environment.ts
-src/environments/environment.prod.ts
-
-# Archivos de sistema y editor
-.vscode/
-.DS_Store
-Thumbs.db
